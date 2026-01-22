@@ -1,5 +1,4 @@
-C# - Practice 
-Programming 2 Project - Banking System
+C# - Practice | Programming 2 Project - Banking System
 
 Completed within assignment guidelines. 
 
