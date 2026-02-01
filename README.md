@@ -2,7 +2,7 @@ Programming 2 Group Project
 
 This project was built as a C#  programming assignment to simulate basic banking functionality.
 
-
+<br>
 🛠️ Stack
 
 C# – Language used to build project
@@ -11,7 +11,7 @@ Visual Studio - IDE
 
 Github - Version control and collaboration terminal
 
-
+<br>
 🧠 Concepts
 
 Object-Oriented Design – Classes, inheritance, and encapsulation.
@@ -22,7 +22,7 @@ Data Structures – Arrays, Lists, and Objects.
 
 Method Overrides & Encapsulation – Polymorphism and controlled access to internal state.
 
-
+<br>
 📝 Notes
 
 - This project was completed as a collaborative assignment with 4 other group mates for my Programming 2 course.
