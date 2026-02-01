@@ -1,4 +1,4 @@
-Programming 2 Group Project 
+<h2>Programming 2 Group Project </h2>
 
 This project was built as a C#  programming assignment to simulate basic banking functionality.
 
